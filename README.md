@@ -10,7 +10,7 @@ This package is written by Jim Hester, and reproduced by me, for [A companion gu
 You can install the released version of note from [CRAN](https://CRAN.R-project.org) with:
 
 ``` r
-install.packages("note")
+devtools::install_github("EvaMaeRey/note")
 ```
 
 ## Example
